@@ -1,7 +1,7 @@
-# Личный проект «{{projectTitle}}»
+# Личный проект «{{Keksobooking}}»
 
-* Студент: [{{userName}}]({{userProfile}}).
-* Наставник: `Неизвестно`.
+* Студент: [{{Vyacheslav}}]({{https://github.com/TobyThorne}}).
+* Наставник: [{{Vyacheslav}}]({{https://github.com/TobyThorneA}}).
 
 ---
 
